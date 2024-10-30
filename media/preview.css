@@ -1,0 +1,8 @@
+/*
+ * Since 1.0.0
+ *
+ * The Preview Form for Contact Form 7
+ */
+#cf7_preview_tab_content [type="submit"]{
+    pointer-events: none;
+}
